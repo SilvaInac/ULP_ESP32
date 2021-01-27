@@ -1,6 +1,0 @@
-entry T 00000000 
-exit T 00000064 
-io_number B 00000088 
-last_result B 00000084 
-Tpig_detect B 00000080 
-wake_up T 00000068 
