@@ -1,0 +1,5 @@
+/home/inatel/eclipse-workspace/ULP/build/esp-idf/main/ulp_main/CMakeFiles/edit_cache.dir
+/home/inatel/eclipse-workspace/ULP/build/esp-idf/main/ulp_main/CMakeFiles/build.dir
+/home/inatel/eclipse-workspace/ULP/build/esp-idf/main/ulp_main/CMakeFiles/rebuild_cache.dir
+/home/inatel/eclipse-workspace/ULP/build/esp-idf/main/ulp_main/CMakeFiles/ulp_main_ld_script.dir
+/home/inatel/eclipse-workspace/ULP/build/esp-idf/main/ulp_main/CMakeFiles/ulp_main.dir

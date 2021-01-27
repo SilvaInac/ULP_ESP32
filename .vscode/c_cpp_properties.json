@@ -1,0 +1,70 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "${workspaceFolder}/**"
+            ],
+            "defines": [],
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "gnu11",
+            "cppStandard": "gnu++14",
+            "intelliSenseMode": "gcc-x64",
+            "configurationProvider": "go2sh.cmake-integration"
+        },
+        {
+            "name": "libs",
+            "includePath": [
+                "${workspaceFolder}/**"
+            ],
+            "defines": [],
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "gnu11",
+            "cppStandard": "gnu++14",
+            "intelliSenseMode": "gcc-x64",
+            "compilerArgs": [
+                "-Iconfig",
+                "-I/home/inatel/esp/esp-idf/components/xtensa/include",
+                "-I/home/inatel/esp/esp-idf/components/xtensa/esp32/include",
+                "-I/home/inatel/esp/esp-idf/components/newlib/platform_include",
+                "-I/home/inatel/esp/esp-idf/components/freertos/include",
+                "-I/home/inatel/esp/esp-idf/components/freertos/xtensa/include",
+                "-I/home/inatel/esp/esp-idf/components/heap/include",
+                "-I/home/inatel/esp/esp-idf/components/log/include",
+                "-I/home/inatel/esp/esp-idf/components/lwip/include/apps",
+                "-I/home/inatel/esp/esp-idf/components/lwip/include/apps/sntp",
+                "-I/home/inatel/esp/esp-idf/components/lwip/lwip/src/include",
+                "-I/home/inatel/esp/esp-idf/components/lwip/port/esp32/include",
+                "-I/home/inatel/esp/esp-idf/components/lwip/port/esp32/include/arch",
+                "-I/home/inatel/esp/esp-idf/components/soc/src/esp32/.",
+                "-I/home/inatel/esp/esp-idf/components/soc/src/esp32/include",
+                "-I/home/inatel/esp/esp-idf/components/soc/include",
+                "-I/home/inatel/esp/esp-idf/components/esp_rom/include",
+                "-I/home/inatel/esp/esp-idf/components/esp_common/include",
+                "-I/home/inatel/esp/esp-idf/components/esp_system/include",
+                "-I/home/inatel/esp/esp-idf/components/esp32/include",
+                "-I/home/inatel/esp/esp-idf/components/driver/include",
+                "-I/home/inatel/esp/esp-idf/components/driver/esp32/include",
+                "-I/home/inatel/esp/esp-idf/components/esp_ringbuf/include",
+                "-I/home/inatel/esp/esp-idf/components/efuse/include",
+                "-I/home/inatel/esp/esp-idf/components/efuse/esp32/include",
+                "-I/home/inatel/esp/esp-idf/components/espcoredump/include",
+                "-I/home/inatel/esp/esp-idf/components/esp_timer/include",
+                "-I/home/inatel/esp/esp-idf/components/esp_ipc/include",
+                "-I/home/inatel/esp/esp-idf/components/soc/soc/esp32/include",
+                "-I/home/inatel/esp/esp-idf/components/soc/soc/esp32/../include",
+                "-I/home/inatel/esp/esp-idf/components/soc/soc/esp32/private_include",
+                "-I/home/inatel/esp/esp-idf/components/vfs/include",
+                "-I/home/inatel/esp/esp-idf/components/esp_wifi/include",
+                "-I/home/inatel/esp/esp-idf/components/esp_wifi/esp32/include",
+                "-I/home/inatel/esp/esp-idf/components/esp_event/include",
+                "-I/home/inatel/esp/esp-idf/components/esp_netif/include",
+                "-I/home/inatel/esp/esp-idf/components/esp_eth/include",
+                "-I/home/inatel/esp/esp-idf/components/tcpip_adapter/include",
+                "-I/home/inatel/esp/esp-idf/components/app_trace/include",
+                "-std=gnu99"
+            ]
+        }
+    ],
+    "version": 4
+}

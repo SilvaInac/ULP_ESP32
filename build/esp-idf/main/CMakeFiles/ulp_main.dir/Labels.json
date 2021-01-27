@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/inatel/eclipse-workspace/ULP/build/esp-idf/main/CMakeFiles/ulp_main"
+		},
+		{
+			"file" : "/home/inatel/eclipse-workspace/ULP/build/esp-idf/main/CMakeFiles/ulp_main.rule"
+		},
+		{
+			"file" : "/home/inatel/eclipse-workspace/ULP/build/esp-idf/main/CMakeFiles/ulp_main-complete.rule"
+		},
+		{
+			"file" : "/home/inatel/eclipse-workspace/ULP/build/esp-idf/main/ulp_main-prefix/src/ulp_main-stamp/ulp_main-install.rule"
+		},
+		{
+			"file" : "/home/inatel/eclipse-workspace/ULP/build/esp-idf/main/ulp_main-prefix/src/ulp_main-stamp/ulp_main-mkdir.rule"
+		},
+		{
+			"file" : "/home/inatel/eclipse-workspace/ULP/build/esp-idf/main/ulp_main-prefix/src/ulp_main-stamp/ulp_main-download.rule"
+		},
+		{
+			"file" : "/home/inatel/eclipse-workspace/ULP/build/esp-idf/main/ulp_main-prefix/src/ulp_main-stamp/ulp_main-update.rule"
+		},
+		{
+			"file" : "/home/inatel/eclipse-workspace/ULP/build/esp-idf/main/ulp_main-prefix/src/ulp_main-stamp/ulp_main-patch.rule"
+		},
+		{
+			"file" : "/home/inatel/eclipse-workspace/ULP/build/esp-idf/main/ulp_main-prefix/src/ulp_main-stamp/ulp_main-configure.rule"
+		},
+		{
+			"file" : "/home/inatel/eclipse-workspace/ULP/build/esp-idf/main/ulp_main-prefix/src/ulp_main-stamp/ulp_main-build.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"ulp_main"
+		],
+		"name" : "ulp_main"
+	}
+}
